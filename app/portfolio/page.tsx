@@ -37,7 +37,7 @@ const projects = [
     description: "AI-powered application that predicts Premier League match outcomes using historical data and machine learning algorithms.",
     image: images.projects.matchPredictor,
     technologies: ["Python", "TensorFlow", "Scikit-learn", "FastAPI", "MongoDB"],
-    github: "https://github.com/HasanKhan04/premier-predictor",
+    github: "https://github.com/HasanKhan04",
     features: [
       "Machine learning predictions",
       "Historical match analysis",
@@ -50,7 +50,7 @@ const projects = [
     description: "A comprehensive Spring Boot security implementation featuring JWT authentication, role-based access control, and secure API endpoints.",
     image: images.projects.springSecurity,
     technologies: ["Spring Boot", "JWT", "Spring Security", "PostgreSQL", "Docker"],
-    github: "https://github.com/HasanKhan04/spring-secure",
+    github: "https://github.com/HasanKhan04",
     features: [
       "JWT authentication",
       "Role-based access control",

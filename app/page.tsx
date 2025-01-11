@@ -54,7 +54,7 @@ export default function Home() {
 
             <div className="flex gap-4 animate-fade-in-delay-2">
               <Button asChild size="lg" className="rounded-full">
-                <Link href="/portfolio">
+                <Link href="/experience">
                   View My Work
                   <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>

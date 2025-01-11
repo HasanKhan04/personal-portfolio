@@ -14,7 +14,7 @@ const experiences = [
       "Designed and built an AI chat and search feature using a RAG system with hybrid search, increasing customer satisfaction by 50%.",
       "Built a transcription system integrated with Whisper and Hugging Face Pyannote models, reducing hallucinations by 30%.",
     ],
-    technologies: ["OpenAI GPT", "Whisper", "Llama", "RAG", "FastAPI", "AWS"],
+    technologies: ["OpenAI GPT", "Whisper", "Engineering Management", "RAG", "FastAPI", "AWS"],
   },
   {
     company: "Definity Financial Corporation",
@@ -25,7 +25,7 @@ const experiences = [
       "Engineered automated pipelines to schedule and run 100+ functional test cases for an iOS and Android mobile app.",
       "Designed Spring Boot APIs with JPA repositories, improving data retrieval efficiency by 30%.",
     ],
-    technologies: ["Spring Boot", "JPA", "iOS", "Android"],
+    technologies: ["Spring Boot", "JPA", "Java", "Databases"],
   },
   {
     company: "Department of National Defence",
@@ -58,7 +58,7 @@ const experiences = [
       "Built a chatbot integrated with Microsoft Teams and OpenAI, bought by 10 clients within 2 months of deployment.",
       "Pioneered a POC tool with Microsoft Fabric and OpenAI to generate table-specific sample records from SQL DDL.",
     ],
-    technologies: ["Microsoft Teams", "OpenAI", "Microsoft Fabric", "SQL"],
+    technologies: ["Python", "OpenAI", "Microsoft Fabric", "SQL"],
   },
 ]
 

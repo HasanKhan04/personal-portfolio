@@ -1,6 +1,7 @@
 export const images = {
     hero: "https://images.unsplash.com/photo-1549692520-acc6669e2f0c?q=80&w=1974&auto=format&fit=crop",
     headshot: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1000&auto=format&fit=crop",
+    profile: "/profile.jpg",
     projects: {
       premierPicks: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=1470&auto=format&fit=crop",
       flightScout: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1474&auto=format&fit=crop",

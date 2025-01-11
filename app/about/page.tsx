@@ -67,14 +67,32 @@ export default function AboutPage() {
       </SectionHeading>
 
       <div className="grid gap-8 md:grid-cols-2 mb-12">
-        <div className="relative">
+        {/* <div className="relative">
           <img
-            src={images.headshot}
+            src={images.profile}
             alt="Hasan Khan"
             className="rounded-2xl shadow-lg w-full h-[400px] object-cover"
           />
           <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-gradient-to-r from-purple-500/20 to-pink-500/20 rounded-2xl -z-10" />
-        </div>
+        </div> */}
+{/* <div className="relative overflow-hidden rounded-2xl shadow-lg w-full h-[400px]">
+  <img
+    src={images.profile}
+    alt="Hasan Khan"
+    className="object-contain w-full h-full"
+  />
+  <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-gradient-to-r from-purple-500/20 to-pink-500/20 rounded-2xl -z-10" />
+</div> */}
+<div className="relative overflow-hidden rounded-2xl shadow-lg w-full h-[450px]">
+  <img
+    src={images.profile}
+    alt="Hasan Khan"
+    className="object-cover w-full h-full"
+  />
+  <div className="absolute -bottom-4 -right-4 w-28 h-28 bg-gradient-to-r from-purple-500/20 to-pink-500/20 rounded-2xl -z-10" />
+</div>
+
+
         <div className="space-y-6">
           <h2 className="text-3xl font-bold">Background</h2>
           <p className="text-lg text-muted-foreground">
