@@ -5,7 +5,7 @@ export const images = {
     projects: {
       premierPicks: "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=1470&auto=format&fit=crop",
       flightScout: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1474&auto=format&fit=crop",
-      matchPredictor: "https://images.unsplash.com/photo-1459865264687-595d652de67e?q=80&w=1470&auto=format&fit=crop",
+      matchPredictor: "/unlock.png",
       springSecurity: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1470&auto=format&fit=crop",
     },
     companies: {

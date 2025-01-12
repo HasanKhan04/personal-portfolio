@@ -23,7 +23,7 @@ const projects = [
     title: "Flight Scout",
     description: "An automated flight notification system that tracks and alerts users about cheap flights to their desired destinations.",
     image: images.projects.flightScout,
-    technologies: ["Python", "Flask", "Redis", "Celery", "Flight APIs"],
+    technologies: ["Python", "Flask", "SQLAlchemy", "Twilio", "Flight APIs"],
     github: "https://github.com/HasanKhan04/flight-scout",
     features: [
       "Real-time price tracking",
@@ -33,16 +33,16 @@ const projects = [
     ]
   },
   {
-    title: "Premier League Match Predictor",
-    description: "AI-powered application that predicts Premier League match outcomes using historical data and machine learning algorithms.",
+    title: "InsiderUnlocked",
+    description: "A user friendly web app that displays US Senate stock trading data in a comprehensive manner.",
     image: images.projects.matchPredictor,
-    technologies: ["Python", "TensorFlow", "Scikit-learn", "FastAPI", "MongoDB"],
-    github: "https://github.com/HasanKhan04",
+    technologies: ["React", "Django", "SQLite", "Redis", "Pandas"],
+    github: "https://github.com/InsiderUnlocked/Insider-Unlocked",
     features: [
-      "Machine learning predictions",
-      "Historical match analysis",
-      "Team form tracking",
-      "Prediction accuracy metrics"
+      "Frontend and Backend",
+      "ETL Pipelines",
+      "Data Cleaning & Visualization",
+      "Redis Queues"
     ]
   },
   {
